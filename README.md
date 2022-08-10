@@ -1,5 +1,5 @@
 <h2>ENVIO DE DADOS DE UM FORMULÁRIO VIA AJAX COM CODEIGNITER 4</h2>
-<h4>Send data via Ajax using CodeIgniter 4</h4>
+<h4>Submit data with Ajax using CodeIgniter 4</h4>
 
 **Códigos**
 <pre style="background-color:'#E7E9EB'; color:'#000000'">
